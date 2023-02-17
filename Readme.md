@@ -8,6 +8,6 @@ I needed this for the subject computer networks in the third semester of compute
 
 ## Usage
 
-1. Starting the server: './server.py'
+1. Starting the server: `./server.py`
 2. (Optional) Open Wireshark is looking on the local host.
-3. Launch the client: './client.py'
+3. Launch the client: `./client.py`
